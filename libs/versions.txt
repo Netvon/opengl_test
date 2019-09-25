@@ -1,0 +1,6 @@
+SDL2-2.0.9
+SDL2_image-2.0.4
+SDL2_ttf-2.0.15
+glad
+glm
+gcem-1.8.1
